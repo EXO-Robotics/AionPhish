@@ -1,7 +1,7 @@
 BOAT FAIRY — EDITABLE EMAIL
 
 The red button is real HTML text and a hyperlink, separate from the artwork.
-Current placeholder: https://example.com/REPLACE-WITH-YOUR-LINK
+Current button URL: https://mfrey18.github.io/AionPhish/
 
 Files
 - email.html: preview and editable HTML source. Keep boat-fairy.png beside it.

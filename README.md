@@ -14,7 +14,7 @@ Edit `BUTTON_URL`, `BUTTON_TEXT`, and optionally `SUBJECT` in `demo/build_email.
 python3 demo/build_email.py
 ```
 
-This rebuilds both `demo/email.html` and `demo/boat-fairy-draft.eml`. The current button URL is `https://example.com/REPLACE-WITH-YOUR-LINK`.
+This rebuilds both `demo/email.html` and `demo/boat-fairy-draft.eml`. The current button URL is `https://mfrey18.github.io/AionPhish/`.
 
 ## Use in the demo
 

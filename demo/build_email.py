@@ -4,7 +4,7 @@ from email.policy import SMTP
 from html import escape
 
 # Edit these two values, then run: python3 build_email.py
-BUTTON_URL = "https://example.com/REPLACE-WITH-YOUR-LINK"
+BUTTON_URL = "https://mfrey18.github.io/AionPhish/"
 BUTTON_TEXT = "CLAIM YOUR FREE BOAT"
 SUBJECT = "🎣 A FREE BOAT is waiting for you!"
 
